@@ -1,2 +1,2 @@
 # d3-workshop
-Originally developed with @jaxguillette for Harvard University Datafest 2018.
+Code and data for D3 exercises and examples, originally developed by @ColeDCrawford with @jaguillette for Harvard University DataFest 2018
